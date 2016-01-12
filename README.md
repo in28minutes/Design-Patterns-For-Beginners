@@ -1,12 +1,14 @@
+# Design Patterns For Beginners
+##Todo
+- Add link to presentation
+
 ##Expectations
-- You should know ***. 
-- You should know ***. 
-- You are NOT expected to have any experience with Eclipse,Maven or Tomcat.
-- We will help you install Eclipse and get up and running with Maven and Tomcat.
+- A little bit of experience with Java would help but not Mandatory.
+- Ability to understand simple bits of Object Oriented Code would help but not Mandatory.
 
 ##Let's have some fun
 - What are we waiting for?
-- Let's have some fun with *** in 25 Steps.
+- Let's have some fun with Design Patterns.
 - I had fun creating this course and hope you would too.
 - Thanks for your interest in Our Course 
   - I hope you’re as excited as I am!  
@@ -16,8 +18,6 @@
 - See you in the course!
 
 ##Conclusion
-- Thats a lot of ground you have covered over the last so and so..
-- To find out more about *** use these References  
 - I had fun creating this course and I'm sure you had some fun too.
 - Good Luck and Bye from the team here at in28Minutes
 - Do not forget to leave us a review.

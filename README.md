@@ -1,12 +1,12 @@
 # Design Patterns For Beginners
-##Todo
+## Todo
 - Add link to presentation
 
-##Expectations
+## Expectations
 - A little bit of experience with Java would help but not Mandatory.
 - Ability to understand simple bits of Object Oriented Code would help but not Mandatory.
 
-##Let's have some fun
+## Let's have some fun
 - What are we waiting for?
 - Let's have some fun with Design Patterns.
 - I had fun creating this course and hope you would too.
@@ -17,7 +17,7 @@
   - or take a test drive by using the Free Preview feature.  
 - See you in the course!
 
-##Conclusion
+## Conclusion
 - I had fun creating this course and I'm sure you had some fun too.
 - Good Luck and Bye from the team here at in28Minutes
 - Do not forget to leave us a review.
@@ -416,24 +416,24 @@ public class StrategyPattern {
 }
 ```
 
-##About in28Minutes
+## About in28Minutes
 - At in28Minutes, we ask ourselves one question everyday. How do we help you learn effectively - that is more quickly and retain more of what you have learnt?
 - We use Problem-Solution based Step-By-Step Hands-on Approach With Practical, Real World Application Examples. 
 - Our success on Udemy and Youtube (2 Million Views & 12K Subscribers) speaks volumes about the success of our approach.
 - While our primary expertise is on Development, Design & Architecture Java & Related Frameworks (Spring, Struts, Hibernate) we are expanding into the front-end world (Bootstrap, JQuery, Angular JS). 
 
-###Our Beliefs
+### Our Beliefs
 - Best Courses are interactive and fun.
 - Foundations for building high quality applications are best laid down while learning.
 
-###Our Approach
+### Our Approach
 - Problem Solution based Step by Step Hands-on Learning
 - Practical, Real World Application Examples.
 - We use 80-20 Rule. We discuss 20% things used 80% of time in depth. We touch upon other things briefly equipping you with enough knowledge to find out more on your own. 
 - We will be developing a demo application in the course, which could be reused in your projects, saving hours of your effort.
 - We love open source and therefore, All our code is open source too and available on Github.
 
-###Useful Links
+### Useful Links
 - [Our Website](http://www.in28minutes.com)
 - [Youtube Courses](https://www.youtube.com/user/rithustutorials/playlists)
 - [Udemy Courses](https://www.udemy.com/user/in28minutes/)
@@ -441,7 +441,7 @@ public class StrategyPattern {
 - [Twitter](http://twitter.com/in28minutes)
 - [Google Plus](https://plus.google.com/u/3/110861829188024231119)
 
-###Other Courses
+### Other Courses
 - [Spring Framework](https://www.udemy.com/spring-tutorial-for-beginners/)
 - [Maven](http://www.in28minutes.com/p/maven-tutorial-for-beginners.html)
 - [Eclipse](http://www.in28minutes.com/p/eclipse-java-video-tutorial.html)
